@@ -21,4 +21,4 @@
 
 🔵 📝 Additionally, I have contributed several articles on web development to GeeksForGeeks. 🔵
 
-🟡 🤝 With my collaborative spirit, I excel in team environments, enthusiastically engaging with developers to innovate and deliver high-quality software products. Feel free to reach out for collaborations or discussions! 🟡
+🟡 🤝 With my collaborative spirit, I excel in team environments, enthusiastically engaging with developers to innovate and deliver high-quality software products! 🟡
